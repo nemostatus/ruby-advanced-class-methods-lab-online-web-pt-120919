@@ -47,5 +47,5 @@ def self.create_from_filename(name)
   @@all << song
   song
 end
-
+def
 end
